@@ -1,0 +1,7 @@
+.border {
+  border: 10px solid black;
+}
+
+.border:hover {
+  box-shadow: #4fa74f 0px 3px 8px;
+}
